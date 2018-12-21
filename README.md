@@ -2,10 +2,10 @@
 Implementation Of Data Structures In C++ And Java
 
 
-1 Stack <br>
-  a Stack.java
-  b Stack.cpp
-  c Applications.txt
+<b >1 Stack <br>
+  a Stack.java<br>
+  b Stack.cpp<br>
+  c Applications.txt<br><br>
   
 2 Queues
   a Queue.cpp
