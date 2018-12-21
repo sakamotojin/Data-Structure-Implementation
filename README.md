@@ -2,21 +2,21 @@
 Implementation Of Data Structures In C++ And Java
 
 
-<b >1 Stack <br>
+<b >1 Stack <br></b>
   a Stack.java<br>
   b Stack.cpp<br>
   c Applications.txt<br><br>
   
-2 Queues
-  a Queue.cpp
-  b Queue.java
-  c Applications.txt
+<b>2 Queues</b><br>
+  a Queue.cpp<br>
+  b Queue.java<br>
+  c Applications.txt<br>
 
-3 Linked Lists
-  a Singly Linked Lists
-  b Doubly Linked Lists
-  c Circular Linked Lists
-  d Skip Lists
+<b>3 Linked Lists<br>
+  a Singly Linked Lists<br>
+  b Doubly Linked Lists<br>
+  c Circular Linked Lists<br>
+  d Skip Lists<br>
   
-4  Binary Trees
+<b>4  Binary Trees</b><br>
  
