@@ -12,7 +12,7 @@ Implementation Of Data Structures In C++ And Java
   b Queue.java<br>
   c Applications.txt<br>
 
-<b>3 Linked Lists<br>
+<b>3 Linked Lists</b><br>
   a Singly Linked Lists<br>
   b Doubly Linked Lists<br>
   c Circular Linked Lists<br>
